@@ -25,12 +25,6 @@
 
 ###
 
-<div align="center">
-  <img height="600" src="https://i.pinimg.com/originals/39/9e/f1/399ef144e380f82ca2df931a238ce1af.gif"  />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/godiiii/godiiii/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/godiiii/godiiii/output/pacman-contribution-graph.svg">
