@@ -25,10 +25,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/godiiii/godiiii/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/godiiii/godiiii/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/godiiii/godiiii/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img height="700" src="https://i.pinimg.com/1200x/84/60/78/846078e9ebef68e38f71cad87aa2686c.jpg"  />
+</div>
 
 ###
