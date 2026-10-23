@@ -25,8 +25,5 @@
 
 ###
 
-<div align="center">
-  <img height="700" src="https://i.pinimg.com/1200x/84/60/78/846078e9ebef68e38f71cad87aa2686c.jpg"  />
-</div>
 
 ###
